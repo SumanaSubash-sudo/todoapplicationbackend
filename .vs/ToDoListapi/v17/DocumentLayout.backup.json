@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\TodolistController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoListapi\\Controllers\\TodolistController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoListapi\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoListapi\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\TodoFulllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoListapi\\Models\\TodoFulllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\Todolistcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoListapi\\Models\\Todolistcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ToDoListapi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ToDoListapi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwCcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:41:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ToDoListapi\\Models\\User.cs",
+              "ToolTip": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\User.cs",
+              "RelativeToolTip": "ToDoListapi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:54:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodolistController.cs",
+              "DocumentMoniker": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\TodolistController.cs",
+              "RelativeDocumentMoniker": "ToDoListapi\\Controllers\\TodolistController.cs",
+              "ToolTip": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Controllers\\TodolistController.cs",
+              "RelativeToolTip": "ToDoListapi\\Controllers\\TodolistController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:27:14.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoFulllist.cs",
+              "DocumentMoniker": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\TodoFulllist.cs",
+              "RelativeDocumentMoniker": "ToDoListapi\\Models\\TodoFulllist.cs",
+              "ToolTip": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\TodoFulllist.cs",
+              "RelativeToolTip": "ToDoListapi\\Models\\TodoFulllist.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:20:56.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todolistcategory.cs",
+              "DocumentMoniker": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\Todolistcategory.cs",
+              "RelativeDocumentMoniker": "ToDoListapi\\Models\\Todolistcategory.cs",
+              "ToolTip": "C:\\xampp\\.NET Projects\\WebApi\\ToDoListapi\\ToDoListapi\\Models\\Todolistcategory.cs",
+              "RelativeToolTip": "ToDoListapi\\Models\\Todolistcategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:48:39.559Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
